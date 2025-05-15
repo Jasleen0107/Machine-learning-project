@@ -1,9 +1,4 @@
 # 🎬 Movie Recommendation System
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
-![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)
-![Stars](https://img.shields.io/github/stars/Jasleen0107/machine-learning-project?style=social)
 A content-based movie recommendation system built using Python and machine learning techniques. This project uses the TMDB 5000 movies dataset to suggest similar movies based on cast, crew, genres, and keywords.
 
 📌 Features
